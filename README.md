@@ -4,7 +4,7 @@
 Federated learning implementation for intrusion detection in IoT healthcare systems. Contains:
 - Dataset: `icu-dataset/` (Attack.csv, patient/environment monitoring)
 - Analysis notebook: `FL-privacy-icu-iot.ipynb`
-- Research paper: *A Framework for Malicious Traffic Detection...*
+- Research paper for the dataset: [*A Framework for Malicious Traffic Detection...*](https://www.mdpi.com/1424-8220/21/9/3025)
 
 ## Directory Structure
 ```
